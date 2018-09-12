@@ -1,0 +1,18 @@
+/**
+  * Copyright (C) 2018 InfoEmpire <dev+ghp@infoempire.co.za>
+  *
+  * Unauthorized copying or distribution of any file in this project
+  * or part thereof, via any medium or any means, is strictly prohibited.
+  *
+  * This is a private project and is the proprietary and confidential
+  * property of the author.
+  *
+  * The author by no means, express or implied, gives any rights to or
+  * forfeits any rights of any of the content in this repository.
+  *
+  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND
+  * AND IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE
+  * FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF
+  * OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  * IN THE SOFTWARE.
+  */
