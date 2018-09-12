@@ -11,3 +11,7 @@ Specialists in information excellence to put you ahead of the best.
 For more information make contact [here](mailto:dev+ghp@infoempire.co.za?Subject=Contact).
 
 Copyright &copy; 2018 @ [InfoEmpire](https://infoempire.co.za?contact=ghp).
+
+![InfoEmpire][logo]
+
+[logo]: /assets/images/logo.png "InfoEmpire"
